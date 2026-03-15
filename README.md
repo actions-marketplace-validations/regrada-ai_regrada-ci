@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run Regrada
-        uses: regrada-ai/regrada-action@v1
+        uses: regrada-ai/regrada-ci@v1
         with:
           version: latest
           config: regrada.yml
