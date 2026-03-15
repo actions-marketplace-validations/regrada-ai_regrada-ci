@@ -3,8 +3,8 @@ description: "Run Regrada in GitHub Actions"
 author: "Regrada"
 
 branding:
-  icon: "shield"
-  color: "blue"
+  icon: "check-circle"
+  color: "green"
 
 inputs:
   version:
