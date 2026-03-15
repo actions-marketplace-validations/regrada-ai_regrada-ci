@@ -1,5 +1,5 @@
 name: "Regrada - AI Regression Tests"
-description: "Run Regrada in GitHub Actions without publishing the CLI source"
+description: "Run Regrada in GitHub Actions"
 author: "Regrada"
 
 branding:
